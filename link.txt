@@ -1,0 +1,3 @@
+speedometer = <img src="https://img.icons8.com/dotty/80/fa314a/speedometer.png"/>
+arrow up = <img src="https://img.icons8.com/wired/18/fa314a/circled-chevron-up.png"/>
+car = <img src="https://img.icons8.com/windows/18/fa314a/f1-race-car-side-view.png"/>
